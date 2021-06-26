@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "442977228787",
+    "project_id": "chatnetapp",
+    "storage_bucket": "chatnetapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442977228787:android:f7920bc7938079ed996486",
+        "android_client_info": {
+          "package_name": "com.sourav.sastachatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442977228787-djo1300th6ce82pk4vk44o3l5k5r5adm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sourav.sastachatapp",
+            "certificate_hash": "98946da20c3302fe49890fc934799d1a01b0ef49"
+          }
+        },
+        {
+          "client_id": "442977228787-nj01vedot0n22cudnt2phq1kecgrm2o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQmp4YsRYqZdyOEY2MTdc9obMKOxrlRi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442977228787-nj01vedot0n22cudnt2phq1kecgrm2o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
